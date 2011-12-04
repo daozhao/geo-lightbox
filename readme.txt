@@ -47,8 +47,6 @@ and you can alse add some image in one page,like it:
 
 Steps
 
-1. setting page
-2. uncheck "Change flickr's picture external links to internal links"
-3. checked "Change flickr's picture external links to internal links"
-
+1. Lightbox show photo
+2. Lightbox show the point at the map
 
