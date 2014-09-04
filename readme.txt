@@ -3,13 +3,13 @@ Contributors: daozhao chen
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5855418
 Tags: page, flickr, images, picture, photo, geo, map,
 Requires at least: 2.7
-Tested up to: 3.2.1
-Stable tag: 0.5
+Tested up to: 3.9.2
+Stable tag: 0.9
 
 Show the big image in lightbox and show the point in the map.
 
 == Description ==
-version 0.5:
+version 0.9:
 First version for this plugin.
 
 You can see demo page at <a href="http://daozhao.goflytoday.com/2009/08/malaysia-kuala-lumpur-picture/" target="_blank">http://daozhao.goflytoday.com/2009/08/malaysia-kuala-lumpur-picture/</a>
